@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NonRelationalDatabase/NonRelationalDatabase.iml" filepath="$PROJECT_DIR$/NonRelationalDatabase/NonRelationalDatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RelationalDatabase/RelationalDatabase.iml" filepath="$PROJECT_DIR$/RelationalDatabase/RelationalDatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticketToRide.iml" filepath="$PROJECT_DIR$/ticketToRide.iml" />
+    </modules>
+  </component>
+</project>
